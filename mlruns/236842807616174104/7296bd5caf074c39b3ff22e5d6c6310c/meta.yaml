@@ -1,0 +1,14 @@
+artifact_uri: file:C:\Users\dell\salary_mlops\salary_mlops\mlruns/236842807616174104/7296bd5caf074c39b3ff22e5d6c6310c/artifacts
+end_time: 1788195440838
+entry_point_name: ''
+experiment_id: '236842807616174104'
+lifecycle_stage: active
+run_id: 7296bd5caf074c39b3ff22e5d6c6310c
+run_name: mysterious-yak-104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788195431007
+status: 3
+tags: []
+user_id: dell

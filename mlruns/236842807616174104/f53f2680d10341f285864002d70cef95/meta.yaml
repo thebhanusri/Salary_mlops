@@ -1,0 +1,14 @@
+artifact_uri: file:C:\Users\dell\salary_mlops\salary_mlops\mlruns/236842807616174104/f53f2680d10341f285864002d70cef95/artifacts
+end_time: 1788195419084
+entry_point_name: ''
+experiment_id: '236842807616174104'
+lifecycle_stage: active
+run_id: f53f2680d10341f285864002d70cef95
+run_name: abundant-pig-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788195409800
+status: 3
+tags: []
+user_id: dell
